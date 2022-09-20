@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+_venv_order_scheduler/Scripts/activate
+_venv_order_scheduler/Scripts/activate.bat
+_venv_order_scheduler/Scripts/Activate.ps1
+_venv_order_scheduler/Scripts/deactivate.bat
+_venv_order_scheduler/Scripts/easy_install-3.7.exe
+_venv_order_scheduler/Scripts/easy_install.exe
+_venv_order_scheduler/Scripts/pip.exe
+_venv_order_scheduler/Scripts/pip3.7.exe
+_venv_order_scheduler/Scripts/pip3.exe
+_venv_order_scheduler/Scripts/pyside6-assistant.exe
+_venv_order_scheduler/Scripts/pyside6-designer.exe
+_venv_order_scheduler/Scripts/pyside6-genpyi.exe
+_venv_order_scheduler/Scripts/pyside6-linguist.exe
+_venv_order_scheduler/Scripts/pyside6-lrelease.exe
+_venv_order_scheduler/Scripts/pyside6-lupdate.exe
+_venv_order_scheduler/Scripts/pyside6-metaobjectdump.exe
+_venv_order_scheduler/Scripts/pyside6-project.exe
+_venv_order_scheduler/Scripts/pyside6-qmllint.exe
+_venv_order_scheduler/Scripts/pyside6-qmltyperegistrar.exe
+_venv_order_scheduler/Scripts/pyside6-rcc.exe
+_venv_order_scheduler/Scripts/pyside6-uic.exe
+_venv_order_scheduler/Scripts/python.exe
+_venv_order_scheduler/Scripts/pythonw.exe
+_venv_order_scheduler/pyvenv.cfg
